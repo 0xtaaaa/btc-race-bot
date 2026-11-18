@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/api/badge/btc-race-24h-20261118-1444/0xtaaaa/btc-race-bot)](https://make.fun/bounty/btc-race-24h-20261118-1444)
-[![make.fun entry](https://make.fun/api/badge/entry/btc-race-24h-20261118-1444/0xtaaaa/btc-race-bot)](https://make.fun/bounty/btc-race-24h-20261118-1444)
-[![make.fun](https://make.fun/api/badge/makefun/0xtaaaa/btc-race-bot)](https://make.fun)
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/0xtaaaa/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/0xtaaaa/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
 
 # btc-race-bot
 
